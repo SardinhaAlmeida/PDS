@@ -5,7 +5,7 @@ Practical guides of the course of Software Patterns and Design (PDS).
 ## Authors
 
 * [Sara Almeida](https://github.com/SardinhaAlmeida)
-* [Maria Rafaeela Abrunhosa](https://github.com/mariaabr)
+* [Maria Rafaela Abrunhosa](https://github.com/mariaabr)
 
 ## Teachers
 - José Luís Oliveira - jlo@ua.pt
