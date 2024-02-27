@@ -1,6 +1,6 @@
 # PDS 2023 Practical classes
 
-Practical guides of the Software Patterns and Design (PDS) course.
+Practical labs of the Software Patterns and Design (PDS) course.
 
 ## Authors
 
